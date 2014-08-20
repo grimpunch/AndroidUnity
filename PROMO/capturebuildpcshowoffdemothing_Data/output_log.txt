@@ -1,0 +1,27 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1132]
+    Renderer: ATI Radeon HD 5700 Series
+    Vendor:   ATI
+    VRAM:     1014 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 3.5.4f1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Christian\Desktop\Game Development\AndroidUnity\PROMO\capturebuildpcshowoffdemothing_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Christian\Desktop\Game Development\AndroidUnity\PROMO\capturebuildpcshowoffdemothing_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Christian\Desktop\Game Development\AndroidUnity\PROMO\capturebuildpcshowoffdemothing_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Christian\Desktop\Game Development\AndroidUnity\PROMO\capturebuildpcshowoffdemothing_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Christian\Desktop\Game Development\AndroidUnity\PROMO\capturebuildpcshowoffdemothing_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Christian\Desktop\Game Development\AndroidUnity\PROMO\capturebuildpcshowoffdemothing_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Christian\Desktop\Game Development\AndroidUnity\PROMO\capturebuildpcshowoffdemothing_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Christian\Desktop\Game Development\AndroidUnity\PROMO\capturebuildpcshowoffdemothing_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Christian\Desktop\Game Development\AndroidUnity\PROMO\capturebuildpcshowoffdemothing_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Christian\Desktop\Game Development\AndroidUnity\PROMO\capturebuildpcshowoffdemothing_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.244 seconds
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1500. Operation took 6.632321 ms.
+Platform assembly: C:\Users\Christian\Desktop\Game Development\AndroidUnity\PROMO\capturebuildpcshowoffdemothing_Data\Managed\Boo.Lang.dll (this message is harmless)

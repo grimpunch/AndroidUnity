@@ -1,0 +1,1389 @@
+adb server is out of date.  killing...
+* daemon started successfully *
+--------- beginning of /dev/log/main
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+E/LoadGroupService( 4987): LoadGroupService execute
+D/LoadGroupService( 4987): importGroups, getLoadStatus status = 1
+E/LoadGroupService( 4987): doPreSotred import_status =1
+E/LoadGroupService( 4987): groups have been imported before
+D/dalvikvm( 3544): GC_EXPLICIT freed 14K, 47% free 2989K/5575K, external 1625K/2137K, paused 104ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/dalvikvm( 4831): GC_EXPLICIT freed 13K, 49% free 2748K/5379K, external 1625K/2137K, paused 97ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -55
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -56
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/dalvikvm( 4605): GC_EXPLICIT freed 363K, 44% free 3591K/6407K, external 5646K/6607K, paused 135ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -55
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -56
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+D/dalvikvm(32043): GC_EXPLICIT freed 245K, 52% free 2803K/5767K, external 1625K/2137K, paused 106ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -55
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -56
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b7c0358 token=HistoryRecord{2b336df8 com.android.settings/.applications.ManageApplications}}
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b7c0358 token=HistoryRecord{2b336df8 com.android.settings/.applications.ManageApplications}}
+W/IInputConnectionWrapper( 1654): showStatusIcon on inactive InputConnection
+I/ActivityManager(  152): Displayed com.android.settings/.applications.ManageApplications: +441ms (total +1m11s97ms)
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -55
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+D/dalvikvm( 4605): GC_EXTERNAL_ALLOC freed 381K, 46% free 3524K/6407K, external 6064K/6112K, paused 52ms
+D/skia    ( 4605): purging 192K from font cache [23 entries]
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -56
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/skia    ( 4605): purging 196K from font cache [22 entries]
+D/KIPC    (   89): KIPC_SendMessage: len = 4, socket = 14
+D/KIPCapp (  247): doSocketRead returning 2 bytes
+D/KIPCapp (  247): Attempt to read 4 bytes
+D/KIPCapp (  247): calling recv(48)
+D/KIPCapp (  247): doSocketRead returning 4 bytes
+D/KIPCapp (  247): Issuing MsgInd callback, len = 4
+E/KINETO  (  247): KLOG0C3- UKCCQueuePost : Enter len =%d 
+E/KINETO  (  247): KLOG082-   01 00 09 02 00 00 00 00
+E/KINETO  (  247): 
+D/KIPCapp (  247): READ FD = 48
+D/KIPCapp (  247): calling recv(48)
+D/KIPC    (   89): Sent 4 bytes
+E/KINETO  (  247): KLOG0C4- xInEnv: 0x370410 --> 0x370410, opcode=521
+E/KINETO  (  247): KLOG0C4- AsGanRrModeIndEncoder
+E/KINETO  (  247): KLOG0C4- AsGanRrModeIndEncoder: rrmode 0
+E/KINETO  (  247): KLOG0C4- SendIpaGsmRRState
+E/KINETO  (  247): KLOG0C4- SendIpcDataReq 0xa6
+E/KINETO  (  247): KLOG0C4- IPC_SEND 3331
+E/KINETO  (  247): KLOG0C3- GAN_OS_sendIpcMessage : Enter
+E/KINETO  (  247): KLOG003- IPA_MSG_GSM_RR_STATE event
+E/KINETO  (  247): KLOG0C4- XMK_SEND_ENV: id=218 recv=3
+E/KINETO  (  247): KLOG0C4- xmk_Send: 254 -> 3, id=218
+E/KINETO  (  247): KLOG0C4- snd: 254 recv: 3 sig: 218 prio: 100
+E/KINETO  (  247): KLOG0C4- NewState: Process 3 to State 254, Symbol 60
+E/KINETO  (  247): KLOG004- GSM RR State: 0 - UMA RR State: 3
+I/Kineto::main(  247): Kineto: WifiAppStatusCallback Enter ganMode: 80
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b3e7c38 token=HistoryRecord{2b33fa30 com.android.settings/.applications.InstalledAppDetails}}
+I/ActivityManager(  152): Displayed com.android.settings/.applications.InstalledAppDetails: +311ms
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b3eafa8 token=HistoryRecord{2b3a98a0 com.android.packageinstaller/.UninstallerActivity}}
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b3eafa8 token=HistoryRecord{2b3a98a0 com.android.packageinstaller/.UninstallerActivity}}
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b3eafa8 token=HistoryRecord{2b3a98a0 com.android.packageinstaller/.UninstallerActivity}}
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b3eafa8 token=HistoryRecord{2b3a98a0 com.android.packageinstaller/.UninstallerActivity}}
+I/ActivityManager(  152): Displayed com.android.packageinstaller/.UninstallerActivity: +351ms
+D/KeyguardUpdateMonitor(  152): received broadcast android.intent.action.TIME_TICK
+D/KeyguardUpdateMonitor(  152): handleTimeUpdate
+V/PACW_WidgetReceiver( 4972): WidgetReceiver.onReceive(ACTION_TIME_TICK)
+D/PACW_UpdateTimer( 4972): Tick RUN
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b593938 token=HistoryRecord{2b6c6c70 com.android.packageinstaller/.UninstallAppProgress}}
+D/dalvikvm( 5001): GC_EXTERNAL_ALLOC freed 91K, 48% free 2807K/5379K, external 1839K/2137K, paused 84ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -54
+I/Kineto::wifi(  247): onReceive Exit
+I/PackageManager(  152): Removing non-system package:com.grimpunch.games.HyperSpaceCroquet
+D/PackageManager(  152): Removing package com.grimpunch.games.HyperSpaceCroquet
+D/PackageManager(  152):   Receivers: com.admob.android.ads.analytics.InstallReceiver
+D/PackageManager(  152):   Activities: com.grimpunch.games.HyperSpaceCroquet.AdMobTestActivity com.admob.android.ads.AdMobActivity
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+I/ActivityManager(  152): Displayed com.android.packageinstaller/.UninstallAppProgress: +420ms
+D/dalvikvm(  152): GC_EXPLICIT freed 1313K, 48% free 7736K/14599K, external 5718K/6177K, paused 131ms
+D/dalvikvm( 4605): GC_EXPLICIT freed 246K, 44% free 3610K/6407K, external 5536K/6914K, paused 242ms
+D/dalvikvm( 4987): GC_EXPLICIT freed 807K, 50% free 3326K/6535K, external 1625K/2137K, paused 235ms
+D/dalvikvm(  152): GC_EXPLICIT freed 210K, 48% free 7635K/14599K, external 5718K/6177K, paused 185ms
+I/FMSystemService onReceive = (  152): android.intent.action.PACKAGE_REMOVED
+I/FMSystemService(  152): onReceive pkgName = com.grimpunch.games.HyperSpaceCroquet
+I/installd(   95): unlink /data/dalvik-cache/data@app@com.grimpunch.games.HyperSpaceCroquet-1.apk@classes.dex
+I/Process ( 5009): Sending signal. PID: 5009 SIG: 9
+D/AlarmManager(  152): +++Alarm set:type=0 com.android.vending  Trigger after:14998ms
+D/dalvikvm( 4902): GC_CONCURRENT freed 712K, 50% free 3384K/6727K, external 1625K/2137K, paused 10ms+4ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -57
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+I/UninstallAppProgress( 5001): Finished uninstalling pkg: com.grimpunch.games.HyperSpaceCroquet
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b7c0358 token=HistoryRecord{2b336df8 com.android.settings/.applications.ManageApplications}}
+I/dalvikvm( 4605): Jit: resizing JitTable from 1024 to 2048
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+D/skia    ( 4605): purging 192K from font cache [23 entries]
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -55
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -56
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/KeyguardUpdateMonitor(  152): received broadcast android.intent.action.BATTERY_CHANGED
+D/KeyguardUpdateMonitor(  152): handleBatteryUpdate
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/skia    ( 4605): purging 192K from font cache [21 entries]
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/dalvikvm( 1654): GC_EXPLICIT freed 522K, 53% free 3923K/8199K, external 14848K/15612K, paused 82ms
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b241398 token=HistoryRecord{2b330448 com.android.settings/.applications.InstalledAppDetails}}
+I/AppSecurityPermissions( 4605): Ignoring unknown permission:android.permission.READ_PROFILE
+I/ActivityManager(  152): Displayed com.android.settings/.applications.InstalledAppDetails: +910ms
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+W/AlarmManager(  152): +++Alarm  wakeup phone ,pkg=com.android.vending
+W/AlarmManager(  152): +++alarm onSendFinished ,action=null
+D/Finsky  ( 4902): [1] 5.onFinished: Installation state replication succeeded.
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b5cd398 token=HistoryRecord{2b528cc8 com.android.settings/.applications.InstalledAppDetails}}
+I/AppSecurityPermissions( 4605): Ignoring unknown permission:android.permission.READ_EXTERNAL_STORAGE
+I/AppSecurityPermissions( 4605): Ignoring unknown permission:android.permission.SEND_SMS_NO_CONFIRMATION
+I/AppSecurityPermissions( 4605): Ignoring unknown permission:android.permission.PACKAGE_VERIFICATION_AGENT
+I/AppSecurityPermissions( 4605): Ignoring unknown permission:com.google.android.verifier.permission.UPDATE_VERIFIER
+I/ActivityManager(  152): Displayed com.android.settings/.applications.InstalledAppDetails: +355ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b4208b8 token=HistoryRecord{2b420698 com.android.settings/.applications.InstalledAppDetails}}
+I/ActivityManager(  152): Displayed com.android.settings/.applications.InstalledAppDetails: +418ms
+D/dalvikvm(  152): GC_CONCURRENT freed 1837K, 47% free 7764K/14599K, external 5718K/6177K, paused 6ms+15ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b5fe410 token=HistoryRecord{2afdf678 com.android.settings/.applications.InstalledAppDetails}}
+I/AppSecurityPermissions( 4605): Ignoring unknown permission:com.google.android.providers.gmail.permission.READ_GMAIL
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+I/ActivityManager(  152): Displayed com.android.settings/.applications.InstalledAppDetails: +461ms
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+D/dalvikvm( 4605): GC_CONCURRENT freed 1578K, 50% free 4072K/8071K, external 5667K/6914K, paused 4ms+15ms
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b5ca658 token=HistoryRecord{2b4f9340 com.android.settings/.applications.InstalledAppDetails}}
+I/ActivityManager(  152): Displayed com.android.settings/.applications.InstalledAppDetails: +307ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+D/skia    ( 4605): purging 201K from font cache [22 entries]
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b66cf70 token=HistoryRecord{2b652420 com.android.settings/.applications.InstalledAppDetails}}
+I/ActivityManager(  152): Displayed com.android.settings/.applications.InstalledAppDetails: +285ms
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+D/dalvikvm(  152): GC_CONCURRENT freed 1967K, 48% free 7732K/14599K, external 5718K/6177K, paused 6ms+14ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b6e4fc0 token=HistoryRecord{2b2607d0 com.android.settings/.applications.InstalledAppDetails}}
+I/AppSecurityPermissions( 4605): Ignoring unknown permission:com.android.providers.im.permission.READ_ONLY
+I/ActivityManager(  152): Displayed com.android.settings/.applications.InstalledAppDetails: +487ms
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b42a7a0 token=HistoryRecord{2b421b20 com.android.settings/.applications.InstalledAppDetails}}
+I/ActivityManager(  152): Displayed com.android.settings/.applications.InstalledAppDetails: +347ms
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b5c5ab8 token=HistoryRecord{2b789610 com.android.settings/.applications.InstalledAppDetails}}
+D/dalvikvm( 4605): GC_CONCURRENT freed 1985K, 52% free 4134K/8519K, external 5472K/6833K, paused 3ms+9ms
+I/ActivityManager(  152): Displayed com.android.settings/.applications.InstalledAppDetails: +424ms
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b4d9480 token=HistoryRecord{2b4d9238 com.android.settings/.applications.InstalledAppDetails}}
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/ActivityManager(  152): Displayed com.android.settings/.applications.InstalledAppDetails: +547ms
+D/dalvikvm(  152): GC_CONCURRENT freed 2021K, 48% free 7731K/14599K, external 5718K/6177K, paused 6ms+20ms
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b6c9578 token=HistoryRecord{2b0320f8 com.android.packageinstaller/.UninstallerActivity}}
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b6c9578 token=HistoryRecord{2b0320f8 com.android.packageinstaller/.UninstallerActivity}}
+I/ActivityManager(  152): Displayed com.android.packageinstaller/.UninstallerActivity: +530ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b6730b0 token=HistoryRecord{2b30d808 com.android.packageinstaller/.UninstallAppProgress}}
+I/PackageManager(  152): Removing system package:com.orange.phonebackup
+I/PackageManager(  152): Deleting system pkg from data partition
+D/PackageManager(  152): Removing package com.orange.phonebackup
+D/PackageManager(  152): Unregistered content provider: com.voxmobili.phonebackup.provider, className = com.voxmobili.phonebackup.provider.PhoneBackupCoreDatabaseProvider, isSyncable = false
+D/PackageManager(  152):   Providers: com.voxmobili.phonebackup.provider.PhoneBackupCoreDatabaseProvider
+D/PackageManager(  152):   Services: com.voxmobili.app.service.BackupService
+D/PackageManager(  152):   Receivers: com.voxmobili.app.service.BootObserver
+D/PackageManager(  152):   Activities: com.voxmobili.phonebackup.SplashScreen com.voxmobili.phonebackup.PhoneBackupActivity com.voxmobili.phonebackup.SyncHistoryActivity com.voxmobili.phonebackup.HistoryListActivity com.voxmobili.phonebackup.AboutActivity com.voxmobili.phonebackup.AboutNoticeActivity com.voxmobili.phonebackup.SyncActivity com.voxmobili.phonebackup.HelpActivity com.voxmobili.phonebackup.WelcomeActivity com.voxmobili.phonebackup.SettingsAccountActivity com.voxmobili.phonebackup.SettingsModeActivity com.voxmobili.phonebackup.SettingsRoamingActivity com.voxmobili.phonebackup.SettingsReminderActivity com.voxmobili.phonebackup.SettingsAutoSyncDayOfWeekActivity com.voxmobili.phonebackup.SettingsAutoSyncDayOfMonthActivity com.voxmobili.phonebackup.TermsConditionsActivity com.voxmobili.phonebackup.ReminderActivity com.voxmobili.phonebackup.DiscoverActivity com.voxmobili.phonebackup.SettingsCheckerActivity com.voxmobili.phonebackup.SimImportActivity com.voxmobili.phonebackup.DbSelectionActivity com.voxmobili.phonebackup.AuthNeededActivity com.voxmobili.phonebackup.media.MediaLocalSelectionActivity com.voxmobili.phonebackup.media.MediaRemoteSelectionActivity com.voxmobili.phonebackup.widget.PopupActivity com.voxmobili.phonebackup.SettingsActivity
+I/ActivityManager(  152): Displayed com.android.packageinstaller/.UninstallAppProgress: +105ms
+I/PackageParser(  152): com.orange.phonebackup: compat added android.permission.WRITE_EXTERNAL_STORAGE
+I/PackageManager(  152): /system/app/PhoneBackup-signed_2.3.5.02_PROD.apk changed; collecting certs
+D/dalvikvm( 5001): GC_EXPLICIT freed 61K, 47% free 2874K/5379K, external 2416K/2730K, paused 137ms
+I/FMSystemService onReceive = (  152): android.intent.action.PACKAGE_REMOVED
+I/FMSystemService(  152): onReceive pkgName = com.orange.phonebackup
+D/dalvikvm( 4987): GC_EXPLICIT freed 441K, 51% free 3236K/6535K, external 1625K/2137K, paused 209ms
+I/Launcher( 1654): setLoadOnResume
+D/dalvikvm(  152): GC_EXPLICIT freed 1490K, 46% free 7952K/14599K, external 5718K/6177K, paused 176ms
+I/Process ( 5020): Sending signal. PID: 5020 SIG: 9
+D/AlarmManager(  152): +++Alarm set:type=0 com.android.vending  Trigger after:14999ms
+I/Z7BroadcastReceiver( 3544): onReceive() start, intent: Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.orange.phonebackup flg=0x10000000 cmp=com.orange.pushmail.Z7/.service.Z7BroadcastReceiver (has extras) }
+I/installd(   95): unlink /data/dalvik-cache/data@app@com.orange.phonebackup-1.apk@classes.dex
+I/Process ( 5028): Sending signal. PID: 5028 SIG: 9
+D/GTalkService(  282): handlePackageInstalled: re-initialize providers
+D/GTalkService(  282): [RawStanzaProvidersMgr] ##### searchProvidersFromIntent
+D/GTalkService(  282): [RawStanzaProvidersMgr] no intent receivers found
+D/AlarmManager(  152): +++Alarm set:type=0 com.android.vending  Trigger after:14999ms
+D/AlarmManager(  152): +++Alarm set:type=2 com.google.android.apps.maps  Trigger after:1175141ms
+I/Z7BroadcastReceiver( 3544): onReceive() start, intent: Intent { act=android.intent.action.PACKAGE_REPLACED dat=package:com.orange.phonebackup flg=0x10000000 cmp=com.orange.pushmail.Z7/.service.Z7BroadcastReceiver (has extras) }
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/UninstallAppProgress( 5001): Finished uninstalling pkg: com.orange.phonebackup
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b7c0358 token=HistoryRecord{2b336df8 com.android.settings/.applications.ManageApplications}}
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.LoggingProvider: com.facebook.katana.provider.LoggingProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.KeyValueProvider: com.facebook.katana.provider.KeyValueProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.CacheProvider: com.facebook.katana.provider.CacheProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.VaultImageProvider: com.facebook.katana.provider.VaultImageProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.MailboxProvider: com.facebook.katana.provider.MailboxProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.UserStatusesProvider: com.facebook.katana.provider.UserStatusesProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.EventsProvider: com.facebook.katana.provider.EventsProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.ObservedContactsProvider: com.facebook.katana.provider.ObservedContactsProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.NotificationsProvider: com.facebook.katana.provider.NotificationsProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.UserValuesProvider: com.facebook.katana.provider.UserValuesProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.PagesProvider: com.facebook.katana.provider.PagesProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.MobileEventLogProvider: com.facebook.katana.provider.MobileEventLogProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.PushNotificationsProvider: com.facebook.katana.provider.PushNotificationsProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.PhotosProvider: com.facebook.katana.provider.PhotosProvider
+I/ActivityThread( 5051): Pub com.facebook.katana.provider.ConnectionsProvider: com.facebook.katana.provider.ConnectionsProvider
+I/ActivityThread( 5051): Pub com.facebook.orca.notify.FbandroidMessagesForegroundProvider: com.facebook.orca.notify.FbandroidMessagesForegroundProvider
+D/ACRA    ( 5051): Retrieve application default SharedPreferences.
+D/ACRA    ( 5051): Set OnSharedPreferenceChangeListener.
+D/ACRA    ( 5051): ACRA is enabled for com.facebook.katana, intializing...
+D/ACRA    ( 5051): Looking for error files in /data/data/com.facebook.katana/app_acra-reports
+W/nalizableReferenceQueue( 5051): Could not load Finalizer in its own class loader.Loading Finalizer in the current class loader instead. As a result, you will not be ableto garbage collect this class loader. To support reclaiming this class loader, eitherresolve the underlying issue, or move Google Collections to your system class path.
+W/nalizableReferenceQueue( 5051): java.io.FileNotFoundException: com/google/common/base/internal/Finalizer.class
+W/nalizableReferenceQueue( 5051): 	at com.google.common.base.FinalizableReferenceQueue$DecoupledLoader.getBaseUrl(FinalizableReferenceQueue.java:243)
+W/nalizableReferenceQueue( 5051): 	at com.google.common.base.FinalizableReferenceQueue$DecoupledLoader.loadFinalizer(FinalizableReferenceQueue.java:227)
+W/nalizableReferenceQueue( 5051): 	at com.google.common.base.FinalizableReferenceQueue.loadFinalizer(FinalizableReferenceQueue.java:155)
+W/nalizableReferenceQueue( 5051): 	at com.google.common.base.FinalizableReferenceQueue.<clinit>(FinalizableReferenceQueue.java:84)
+W/nalizableReferenceQueue( 5051): 	at com.google.common.collect.CustomConcurrentHashMap$QueueHolder.<clinit>(CustomConcurrentHashMap.java:650)
+W/nalizableReferenceQueue( 5051): 	at com.google.common.collect.CustomConcurrentHashMap$WeakEntry.<init>(CustomConcurrentHashMap.java:1342)
+W/nalizableReferenceQueue( 5051): 	at com.google.common.collect.CustomConcurrentHashMap$EntryFactory$9.newEntry(CustomConcurrentHashMap.java:453)
+W/nalizableReferenceQueue( 5051): 	at com.google.common.collect.CustomConcurrentHashMap.a(CustomConcurrentHashMap.java:1715)
+W/nalizableReferenceQueue( 5051): 	at com.google.common.collect.ComputingConcurrentHashMap$ComputingSegment.a(ComputingConcurrentHashMap.java:123)
+W/nalizableReferenceQueue( 5051): 	at com.google.common.collect.ComputingConcurrentHashMap.apply(ComputingConcurrentHashMap.java:71)
+W/nalizableReferenceQueue( 5051): 	at com.google.common.collect.MapMaker$ComputingMapAdapter.get(MapMaker.java:848)
+W/nalizableReferenceQueue( 5051): 	at com.google.inject.internal.Annotations$AnnotationChecker.a(Annotations.java:90)
+W/nalizableReferenceQueue( 5051): 	at com.google.inject.internal.Annotations.c(Annotations.java:108)
+W/nalizableReferenceQueue( 5051): 	at com.google.inject.Key.d(Key.java:369)
+W/nalizableReferenceQueue( 5051): 	at com.google.inject.Key.b(Key.java:356)
+W/nalizableReferenceQueue( 5051): 	at com.google.inject.Key.a(Key.java:267)
+W/nalizableReferenceQueue( 5051): 	at com.facebook.orca.inject.binder.AnnotatedBindingBuilderImpl.a(AnnotatedBindingBuilderImpl.java:22)
+W/nalizableReferenceQueue( 5051): 	at com.facebook.orca.app.FbBaseModule.a(FbBaseModule.java:75)
+W/nalizableReferenceQueue( 5051): 	at com.facebook.orca.inject.AbstractModule.a(AbstractModule.java:19)
+W/nalizableReferenceQueue( 5051): 	at com.facebook.orca.inject.FbInjectorImpl.a(FbInjectorImpl.java:63)
+W/nalizableReferenceQueue( 5051): 	at com.facebook.orca.inject.FbInjectorImpl.<init>(FbInjectorImpl.java:41)
+W/nalizableReferenceQueue( 5051): 	at com.facebook.orca.inject.FbInjector.a(FbInjector.java:40)
+W/nalizableReferenceQueue( 5051): 	at com.facebook.katana.FacebookApplication.onCreate(FacebookApplication.java:102)
+W/nalizableReferenceQueue( 5051): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:969)
+W/nalizableReferenceQueue( 5051): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:3411)
+W/nalizableReferenceQueue( 5051): 	at android.app.ActivityThread.access$2200(ActivityThread.java:124)
+W/nalizableReferenceQueue( 5051): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:985)
+W/nalizableReferenceQueue( 5051): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+W/nalizableReferenceQueue( 5051): 	at android.os.Looper.loop(Looper.java:130)
+W/nalizableReferenceQueue( 5051): 	at android.app.ActivityThread.main(ActivityThread.java:3822)
+W/nalizableReferenceQueue( 5051): 	at java.lang.reflect.Method.invokeNative(Native Method)
+W/nalizableReferenceQueue( 5051): 	at java.lang.reflect.Method.invoke(Method.java:507)
+W/nalizableReferenceQueue( 5051): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:839)
+W/nalizableReferenceQueue( 5051): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:597)
+W/nalizableReferenceQueue( 5051): 	at dalvik.system.NativeStart.main(Native Method)
+I/Finalizer( 5051): Couldn't access Thread.inheritableThreadLocals. Reference finalizer threads will inherit thread local values.
+D/dalvikvm( 5051): GC_CONCURRENT freed 734K, 47% free 3603K/6727K, external 1625K/2137K, paused 3ms+12ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/dalvikvm( 5051): Could not find method android.net.TrafficStats.getUidRxPackets, referenced from method com.facebook.orca.analytics.AnalyticsDeviceUtils.a
+W/dalvikvm( 5051): VFY: unable to resolve static method 722: Landroid/net/TrafficStats;.getUidRxPackets (I)J
+D/dalvikvm( 5051): VFY: replacing opcode 0x71 at 0x0029
+D/dalvikvm( 5051): VFY: dead code 0x002c-0038 in Lcom/facebook/orca/analytics/AnalyticsDeviceUtils;.a (Lcom/facebook/orca/analytics/HoneyClientEvent;)V
+D/dalvikvm( 5051): GC_CONCURRENT freed 633K, 44% free 3898K/6855K, external 1625K/2137K, paused 4ms+7ms
+D/dalvikvm( 4880): GC_EXPLICIT freed 77K, 49% free 2755K/5379K, external 1625K/2137K, paused 99ms
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+W/Resources( 5051): Converting to string: TypedValue{t=0x10/d=0xffffffff a=-1}
+W/Resources( 5051): Converting to string: TypedValue{t=0x10/d=0xffffffff a=-1}
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b46e290 token=HistoryRecord{2b41d300 com.android.launcher/com.android.launcher2.Launcher}}
+W/IInputConnectionWrapper( 4605): showStatusIcon on inactive InputConnection
+D/dalvikvm( 5051): GC_CONCURRENT freed 641K, 43% free 4198K/7239K, external 1625K/2137K, paused 4ms+17ms
+D/AlarmManager(  152): +++Alarm set:type=2 com.facebook.katana  Trigger after:59999ms
+D/dalvikvm( 5051): GC_CONCURRENT freed 883K, 43% free 4405K/7687K, external 1625K/2137K, paused 4ms+6ms
+D/dalvikvm( 5051): GC_CONCURRENT freed 837K, 42% free 4640K/7943K, external 1625K/2137K, paused 4ms+5ms
+D/KeyguardUpdateMonitor(  152): received broadcast android.intent.action.TIME_TICK
+D/KeyguardUpdateMonitor(  152): handleTimeUpdate
+V/PACW_WidgetReceiver( 4972): WidgetReceiver.onReceive(ACTION_TIME_TICK)
+D/PACW_UpdateTimer( 4972): Tick RUN
+D/dalvikvm( 1654): GC_EXTERNAL_ALLOC freed 241K, 52% free 3940K/8199K, external 15603K/15612K, paused 122ms
+D/dalvikvm( 4972): GC_CONCURRENT freed 1397K, 57% free 2940K/6727K, external 1625K/2137K, paused 9ms+10ms
+I/Launcher( 1654): startAppWidgetListerner
+I/Launcher( 1654): startAppWidgetListerner
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -55
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+D/dalvikvm( 1654): GC_EXTERNAL_ALLOC freed 338K, 52% free 3980K/8199K, external 15963K/16179K, paused 106ms
+I/Launcher( 1654): startAppWidgetListerner
+I/Launcher( 1654): startAppWidgetListerner
+D/dalvikvm( 1654): GC_EXTERNAL_ALLOC freed 285K, 52% free 4014K/8199K, external 17045K/17292K, paused 58ms
+I/Launcher( 1654): startAppWidgetListerner
+D/dalvikvm( 1654): GC_EXPLICIT freed 229K, 51% free 4070K/8199K, external 17315K/17871K, paused 57ms
+D/dalvikvm( 5051): GC_CONCURRENT freed 848K, 40% free 4960K/8263K, external 1625K/2137K, paused 4ms+6ms
+I/dalvikvm( 5051): Jit: resizing JitTable from 512 to 1024
+D/dalvikvm( 5051): GC_CONCURRENT freed 1253K, 43% free 4980K/8711K, external 1625K/2137K, paused 7ms+8ms
+D/dalvikvm( 5051): GC_FOR_MALLOC freed 1283K, 43% free 4998K/8711K, external 1625K/2137K, paused 65ms
+D/dalvikvm( 5051): GC_CONCURRENT freed 95K, 43% free 5009K/8711K, external 1625K/2137K, paused 5ms+9ms
+D/dalvikvm( 5051): GC_CONCURRENT freed 1288K, 42% free 5140K/8775K, external 1625K/2137K, paused 4ms+5ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -57
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+D/dalvikvm( 5051): GC_CONCURRENT freed 1394K, 43% free 5130K/8967K, external 1625K/2137K, paused 5ms+6ms
+W/AlarmManager(  152): +++Alarm  wakeup phone ,pkg=com.android.vending
+W/AlarmManager(  152): +++alarm onSendFinished ,action=null
+D/dalvikvm( 4902): GC_CONCURRENT freed 478K, 47% free 3591K/6727K, external 1625K/2137K, paused 9ms+12ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/dalvikvm( 4902): GC_CONCURRENT freed 898K, 49% free 3551K/6855K, external 1625K/2137K, paused 4ms+6ms
+D/Finsky  ( 4902): [1] 5.onFinished: Installation state replication succeeded.
+D/dalvikvm( 4887): GC_EXPLICIT freed 54K, 49% free 2744K/5379K, external 1625K/2137K, paused 135ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -55
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+D/dalvikvm( 5051): GC_CONCURRENT freed 1167K, 42% free 5203K/8967K, external 1625K/2137K, paused 14ms+15ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+E/PackageManager(  152): chooseBestActivitycom.android.launcher2.Launcher=0 vs com.orange.homescreen3x.MainActivity=0
+V/InputMethodService( 4352): liuan : call closepanel.
+V/InputMethodService( 4352): liuan : call closepanel. 123
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -56
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+D/dalvikvm( 4894): GC_EXPLICIT freed 141K, 49% free 2771K/5379K, external 1764K/2137K, paused 103ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/dalvikvm( 4902): GC_EXPLICIT freed 241K, 48% free 3585K/6855K, external 1625K/2137K, paused 157ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -55
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+D/dalvikvm( 4942): GC_EXPLICIT freed 169K, 48% free 2849K/5447K, external 1625K/2137K, paused 41ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -56
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-57, 4)=2
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/dalvikvm( 3585): GC_EXPLICIT freed 22K, 41% free 4169K/6983K, external 1625K/2137K, paused 138ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -54
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-51, 4)=3
+D/dalvikvm( 4972): GC_EXPLICIT freed 257K, 57% free 2925K/6727K, external 1625K/2137K, paused 111ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-48, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-52, 4)=3
+D/dalvikvm( 3326): GC_EXPLICIT freed 75K, 49% free 2775K/5379K, external 1625K/2137K, paused 102ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-53, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-53, 4)=3
+D/dalvikvm( 4987): GC_EXPLICIT freed 291K, 51% free 3235K/6535K, external 1625K/2137K, paused 143ms
+W/AlarmManager(  152): +++Alarm  wakeup phone ,pkg=com.facebook.katana
+W/AlarmManager(  152): +++alarm onSendFinished ,action=com.facebook.katana.service.7
+D/AlarmManager(  152): +++Alarm set:type=2 com.facebook.katana  Trigger after:87507266ms
+D/KeyguardUpdateMonitor(  152): received broadcast android.intent.action.TIME_TICK
+D/KeyguardUpdateMonitor(  152): handleTimeUpdate
+V/PACW_WidgetReceiver( 4972): WidgetReceiver.onReceive(ACTION_TIME_TICK)
+D/PACW_UpdateTimer( 4972): Tick RUN
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-52, 4)=3
+D/dalvikvm( 3544): GC_EXPLICIT freed 12K, 47% free 2990K/5575K, external 1625K/2137K, paused 115ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-53, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -56
+I/Kineto::wifi(  247): onReceive Exit
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -55
+I/Kineto::wifi(  247): onReceive Exit
+--------- beginning of /dev/log/system
+E/ConnectivityService(  152):  getNetworkInfo : 0
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-55, 4)=3
+I/ActivityThread(32043): Finishing broadcast to ComponentInfo{com.orange.widget.devicestatus/com.orange.widget.devicestatus.DeviceStatusWidget}
+D/ActivityThread(32043): <<< done: 113
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-52, 4)=3
+E/ActivityThread( 4831): >>> handling: 120
+D/ActivityThread( 4831): <<< done: 120
+D/dalvikvm( 4831): GC_EXPLICIT freed 12K, 49% free 2749K/5379K, external 1625K/2137K, paused 121ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+D/dalvikvm( 1654): GC_EXTERNAL_ALLOC freed 269K, 51% free 4060K/8199K, external 17496K/17767K, paused 69ms
+E/ActivityThread( 4605): >>> handling: 120
+D/ActivityThread( 4605): <<< done: 120
+D/dalvikvm( 4605): GC_EXPLICIT freed 1038K, 55% free 3874K/8519K, external 5445K/6800K, paused 191ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+E/ActivityThread(32043): >>> handling: 120
+D/ActivityThread(32043): <<< done: 120
+D/dalvikvm(32043): GC_EXPLICIT freed 234K, 52% free 2803K/5767K, external 1625K/2137K, paused 107ms
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/ActivityThread(  152): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.server.InputMethodManagerService$ScreenOnOffReceiver@2b21e1b8
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.server.InputMethodManagerService$ScreenOnOffReceiver@2b21e1b8
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.server.InputMethodManagerService$ScreenOnOffReceiver@2b21e1b8
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  220): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.systemui.statusbar.StatusBarService$4@2afec480
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.systemui.statusbar.StatusBarService$4@2afec480
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.systemui.statusbar.StatusBarService$4@2afec480
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+D/wenxin  (  220): mBroadcastReceiver.action = android.intent.action.CLOSE_SYSTEM_DIALOGS
+I/ActivityThread(  152): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.internal.policy.impl.GlobalActions$4@2b355818
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.internal.policy.impl.GlobalActions$4@2b355818
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.internal.policy.impl.GlobalActions$4@2b355818
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(32043): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.orange.widget.devicestatus.SystemHandler$1@2afce360
+I/ActivityThread(32043): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.orange.widget.devicestatus.SystemHandler$1@2afce360
+I/ActivityThread(32043): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.orange.widget.devicestatus.SystemHandler$2@2afce618
+I/ActivityThread(32043): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.orange.widget.devicestatus.SystemHandler$2@2afce618
+I/ActivityThread(32043): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.orange.widget.devicestatus.SystemHandler$1@2afce360
+I/ActivityThread(32043):   mRegistered=true mCurOrdered=false
+I/ActivityThread(32043): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.orange.widget.devicestatus.SystemHandler$2@2afce618
+I/ActivityThread(32043):   mRegistered=true mCurOrdered=false
+V/InputMethodService( 4352): liuan : call closepanel.
+V/InputMethodService( 4352): liuan : call closepanel. 123
+E/PackageManager(  152): chooseBestActivitycom.android.launcher2.Launcher=0 vs com.orange.homescreen3x.MainActivity=0
+I/ActivityThread( 1654): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.launcher2.Launcher$CloseSystemDialogsIntentReceiver@2afe18b8
+I/ActivityThread( 1654): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.launcher2.Launcher$CloseSystemDialogsIntentReceiver@2afe18b8
+I/ActivityThread( 4352): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to android.inputmethodservice.InputMethodService$CloseSystemDialogsIntentReceiver@2afe2cd0
+I/ActivityThread( 4352): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to android.inputmethodservice.InputMethodService$CloseSystemDialogsIntentReceiver@2afe2cd0
+I/ActivityThread( 4352): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to android.inputmethodservice.InputMethodService$CloseSystemDialogsIntentReceiver@2afe2cd0
+I/ActivityThread( 4352):   mRegistered=true mCurOrdered=false
+I/ActivityThread( 1654): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.launcher2.Launcher$CloseSystemDialogsIntentReceiver@2afe18b8
+I/ActivityThread( 1654):   mRegistered=true mCurOrdered=false
+I/ActivityManager(  152): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 152
+E/ActivityThread( 1654): >>> handling: 112
+D/ActivityThread( 1654): <<< done: 112
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+E/ActivityThread( 5051): >>> handling: 120
+D/ActivityThread( 5051): <<< done: 120
+D/dalvikvm( 5051): GC_EXPLICIT freed 1023K, 43% free 5174K/8967K, external 1625K/2137K, paused 214ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-53, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-52, 4)=3
+D/dalvikvm( 1654): GC_EXTERNAL_ALLOC freed 76K, 52% free 3995K/8199K, external 18441K/18655K, paused 169ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-53, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-52, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-52, 4)=3
+I/ActivityThread(  152): Receiving broadcast android.intent.action.TIME_TICK to com.android.server.AlarmManagerService$ClockReceiver@2b1999e8
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.TIME_TICK to com.android.server.AlarmManagerService$ClockReceiver@2b1999e8
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.TIME_TICK to com.android.server.AlarmManagerService$ClockReceiver@2b1999e8
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=true
+D/AlarmManager(  152): scheduleTimeTickEvent calendar=Wed Aug 01 01:25:00 GMT 2012
+D/AlarmManager(  152): calendar.getTimeInMillis()1343780700000
+I/ActivityThread(  152): Finishing broadcast to com.android.server.AlarmManagerService$ClockReceiver@2b1999e8
+I/ActivityThread(  152): Receiving broadcast android.intent.action.TIME_TICK to com.android.internal.policy.impl.KeyguardUpdateMonitor$3@2afe9f50
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.TIME_TICK to com.android.internal.policy.impl.KeyguardUpdateMonitor$3@2afe9f50
+D/KeyguardUpdateMonitor(  152): received broadcast android.intent.action.TIME_TICK
+D/KeyguardUpdateMonitor(  152): handleTimeUpdate
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.TIME_TICK to com.android.internal.policy.impl.KeyguardUpdateMonitor$3@2afe9f50
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  152): Finishing broadcast to com.android.internal.policy.impl.KeyguardUpdateMonitor$3@2afe9f50
+I/ActivityThread(  220): Receiving broadcast android.intent.action.TIME_TICK to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.TIME_TICK to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.TIME_TICK to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  220): Finishing broadcast to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220): Receiving broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  220): Finishing broadcast to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220): Receiving broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  220): Finishing broadcast to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220): Receiving broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b038c20
+V/PACW_WidgetReceiver( 4972): WidgetReceiver.onReceive(ACTION_TIME_TICK)
+D/PACW_UpdateTimer( 4972): Tick RUN
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  220): Finishing broadcast to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread( 4972): Receiving broadcast android.intent.action.TIME_TICK to com.nasc.widget.pixelartclock.WidgetReceiver@2b062620
+I/ActivityThread( 4972): Enqueueing broadcast android.intent.action.TIME_TICK to com.nasc.widget.pixelartclock.WidgetReceiver@2b062620
+I/ActivityThread( 4972): Dispatching broadcast android.intent.action.TIME_TICK to com.nasc.widget.pixelartclock.WidgetReceiver@2b062620
+I/ActivityThread( 4972):   mRegistered=true mCurOrdered=true
+D/dalvikvm( 4972): GC_CONCURRENT freed 566K, 57% free 2940K/6727K, external 1625K/2137K, paused 9ms+10ms
+I/ActivityThread( 4972): Finishing broadcast to com.nasc.widget.pixelartclock.WidgetReceiver@2b062620
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-51, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+E/ActivityThread( 4972): >>> handling: 120
+D/ActivityThread( 4972): <<< done: 120
+D/dalvikvm( 4972): GC_EXPLICIT freed 204K, 57% free 2925K/6727K, external 1625K/2137K, paused 120ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-51, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-52, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-52, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-49, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-51, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-49, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-52, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+D/AndroidRuntime( 5083): 
+D/AndroidRuntime( 5083): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 5083): CheckJNI is OFF
+D/AndroidRuntime( 5083): Calling main entry com.android.commands.pm.Pm
+E/ActivityThread( 4831): >>> handling: 114
+D/ActivityThread( 4831): <<< done: 114
+E/ActivityThread( 4831): >>> handling: 121
+D/ActivityThread( 4831): <<< done: 121
+D/dalvikvm( 4831): GC_EXPLICIT freed 5K, 49% free 2750K/5379K, external 1625K/2137K, paused 114ms
+W/ActivityManager(  152): No content provider found for: 
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-53, 4)=3
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+I/KeyguardUpdateMonitor(  152): enter isDeviceProvisioned ...
+E/PackageManager(  152): chooseBestActivitycom.android.launcher2.Launcher=0 vs com.orange.homescreen3x.MainActivity=0
+I/ActivityManager(  152): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 152
+V/InputMethodService( 4352): liuan : call closepanel.
+V/InputMethodService( 4352): liuan : call closepanel. 123
+E/ActivityThread( 1654): >>> handling: 112
+I/ActivityThread(  152): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.server.InputMethodManagerService$ScreenOnOffReceiver@2b21e1b8
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.server.InputMethodManagerService$ScreenOnOffReceiver@2b21e1b8
+I/ActivityThread(  152): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.internal.policy.impl.GlobalActions$4@2b355818
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.internal.policy.impl.GlobalActions$4@2b355818
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.server.InputMethodManagerService$ScreenOnOffReceiver@2b21e1b8
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.internal.policy.impl.GlobalActions$4@2b355818
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  220): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.systemui.statusbar.StatusBarService$4@2afec480
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.systemui.statusbar.StatusBarService$4@2afec480
+I/ActivityThread(32043): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.orange.widget.devicestatus.SystemHandler$1@2afce360
+I/ActivityThread(32043): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.orange.widget.devicestatus.SystemHandler$1@2afce360
+I/ActivityThread(32043): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.orange.widget.devicestatus.SystemHandler$2@2afce618
+I/ActivityThread(32043): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.orange.widget.devicestatus.SystemHandler$2@2afce618
+I/ActivityThread(32043): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.orange.widget.devicestatus.SystemHandler$1@2afce360
+I/ActivityThread(32043):   mRegistered=true mCurOrdered=false
+I/ActivityThread(32043): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.orange.widget.devicestatus.SystemHandler$2@2afce618
+I/ActivityThread(32043):   mRegistered=true mCurOrdered=false
+I/ActivityThread( 4352): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to android.inputmethodservice.InputMethodService$CloseSystemDialogsIntentReceiver@2afe2cd0
+I/ActivityThread( 4352): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to android.inputmethodservice.InputMethodService$CloseSystemDialogsIntentReceiver@2afe2cd0
+I/ActivityThread( 4352): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to android.inputmethodservice.InputMethodService$CloseSystemDialogsIntentReceiver@2afe2cd0
+I/ActivityThread( 4352):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.systemui.statusbar.StatusBarService$4@2afec480
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+D/wenxin  (  220): mBroadcastReceiver.action = android.intent.action.CLOSE_SYSTEM_DIALOGS
+I/ActivityThread( 1654): Receiving broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.launcher2.Launcher$CloseSystemDialogsIntentReceiver@2afe18b8
+I/ActivityThread( 1654): Enqueueing broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.launcher2.Launcher$CloseSystemDialogsIntentReceiver@2afe18b8
+D/ActivityThread( 1654): <<< done: 112
+I/ActivityThread( 1654): Dispatching broadcast android.intent.action.CLOSE_SYSTEM_DIALOGS to com.android.launcher2.Launcher$CloseSystemDialogsIntentReceiver@2afe18b8
+I/ActivityThread( 1654):   mRegistered=true mCurOrdered=false
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-53, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-51, 4)=3
+W/ActivityManager(  152): No content provider found for: 
+E/ActivityThread( 4831): >>> handling: 122
+D/ActivityThread( 4831): <<< done: 122
+E/ActivityThread( 4831): >>> handling: 116
+D/PackageParser(  152): Scanning package: /data/app/vmdl1120446958.tmp
+D/ActivityThread( 4831): <<< done: 116
+E/ActivityThread( 4831): >>> handling: 119
+D/ActivityThread( 4831): <<< done: 119
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-53, 4)=3
+D/PackageManager(  152): Scanning package com.grimpunch.games.HyperSpaceCroquet
+I/PackageManager(  152): Unpacking native libraries for /data/app/com.grimpunch.games.HyperSpaceCroquet-1.apk
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
+E/ActivityThread( 4831): >>> handling: 120
+D/ActivityThread( 4831): <<< done: 120
+D/dalvikvm( 4831): GC_EXPLICIT freed 8K, 49% free 2748K/5379K, external 1625K/2137K, paused 100ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-52, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-54, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -56
+I/Kineto::wifi(  247): onReceive Exit
+I/ActivityThread(  220): Receiving broadcast android.net.wifi.RSSI_CHANGED to com.android.systemui.statusbar.policy.StatusBarPolicy$1@2b005578
+I/ActivityThread(  220): Enqueueing broadcast android.net.wifi.RSSI_CHANGED to com.android.systemui.statusbar.policy.StatusBarPolicy$1@2b005578
+I/ActivityThread(  247): Receiving broadcast android.net.wifi.RSSI_CHANGED to com.android.kineto.wifi$1@2b002198
+I/ActivityThread(  247): Enqueueing broadcast android.net.wifi.RSSI_CHANGED to com.android.kineto.wifi$1@2b002198
+I/ActivityThread(32043): Receiving broadcast android.net.wifi.RSSI_CHANGED to com.orange.widget.devicestatus.SystemHandler$2@2afce618
+I/ActivityThread(32043): Enqueueing broadcast android.net.wifi.RSSI_CHANGED to com.orange.widget.devicestatus.SystemHandler$2@2afce618
+I/ActivityThread(  220): Dispatching broadcast android.net.wifi.RSSI_CHANGED to com.android.systemui.statusbar.policy.StatusBarPolicy$1@2b005578
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  247): Dispatching broadcast android.net.wifi.RSSI_CHANGED to com.android.kineto.wifi$1@2b002198
+I/ActivityThread(  247):   mRegistered=true mCurOrdered=false
+I/ActivityThread(32043): Dispatching broadcast android.net.wifi.RSSI_CHANGED to com.orange.widget.devicestatus.SystemHandler$2@2afce618
+I/ActivityThread(32043):   mRegistered=true mCurOrdered=false
+E/ActivityThread( 3326): >>> handling: 113
+I/ActivityThread( 3326): Finishing broadcast to ComponentInfo{com.orange.widget.rss/com.orange.widget.rss.RSSAppWidget}
+D/ActivityThread( 3326): <<< done: 113
+E/ActivityThread(32043): >>> handling: 113
+E/ConnectivityService(  152):  getNetworkInfo : 0
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-56, 4)=2
+I/ActivityThread(32043): Finishing broadcast to ComponentInfo{com.orange.widget.devicestatus/com.orange.widget.devicestatus.DeviceStatusWidget}
+D/ActivityThread(32043): <<< done: 113
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-53, 4)=3
+I/ActivityThread(  220): Receiving broadcast android.net.wifi.RSSI_CHANGED to com.android.systemui.statusbar.policy.StatusBarPolicy$1@2b005578
+I/ActivityThread(  220): Enqueueing broadcast android.net.wifi.RSSI_CHANGED to com.android.systemui.statusbar.policy.StatusBarPolicy$1@2b005578
+I/ActivityThread(  220): Dispatching broadcast android.net.wifi.RSSI_CHANGED to com.android.systemui.statusbar.policy.StatusBarPolicy$1@2b005578
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  247): Receiving broadcast android.net.wifi.RSSI_CHANGED to com.android.kineto.wifi$1@2b002198
+I/ActivityThread(  247): Enqueueing broadcast android.net.wifi.RSSI_CHANGED to com.android.kineto.wifi$1@2b002198
+I/Kineto::wifi(  247): onReceive Enter
+V/Kineto::wifi(  247): RSSI_CHANGED_ACTION newRssi: -53
+I/Kineto::wifi(  247): onReceive Exit
+I/ActivityThread(  247): Dispatching broadcast android.net.wifi.RSSI_CHANGED to com.android.kineto.wifi$1@2b002198
+I/ActivityThread(  247):   mRegistered=true mCurOrdered=false
+I/ActivityThread(32043): Receiving broadcast android.net.wifi.RSSI_CHANGED to com.orange.widget.devicestatus.SystemHandler$2@2afce618
+I/ActivityThread(32043): Enqueueing broadcast android.net.wifi.RSSI_CHANGED to com.orange.widget.devicestatus.SystemHandler$2@2afce618
+I/ActivityThread(32043): Dispatching broadcast android.net.wifi.RSSI_CHANGED to com.orange.widget.devicestatus.SystemHandler$2@2afce618
+I/ActivityThread(32043):   mRegistered=true mCurOrdered=false
+E/ActivityThread( 3326): >>> handling: 113
+I/ActivityThread( 3326): Finishing broadcast to ComponentInfo{com.orange.widget.rss/com.orange.widget.rss.RSSAppWidget}
+D/ActivityThread( 3326): <<< done: 113
+E/ActivityThread(32043): >>> handling: 113
+E/ConnectivityService(  152):  getNetworkInfo : 0
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-53, 4)=3
+I/ActivityThread(32043): Finishing broadcast to ComponentInfo{com.orange.widget.devicestatus/com.orange.widget.devicestatus.DeviceStatusWidget}
+D/ActivityThread(32043): <<< done: 113
+D/installd(   95): DexInv: --- BEGIN '/data/app/com.grimpunch.games.HyperSpaceCroquet-1.apk' ---
+D/dalvikvm( 5092): DexOpt: load 61ms, verify+opt 209ms
+D/installd(   95): DexInv: --- END '/data/app/com.grimpunch.games.HyperSpaceCroquet-1.apk' (success) ---
+D/PackageManager(  152):   Receivers: com.admob.android.ads.analytics.InstallReceiver
+D/PackageManager(  152):   Activities: com.grimpunch.games.HyperSpaceCroquet.AdMobTestActivity com.admob.android.ads.AdMobActivity
+I/ActivityManager(  152): Force stopping package com.grimpunch.games.HyperSpaceCroquet uid=10074
+D/dalvikvm(  152): GC_CONCURRENT freed 2045K, 47% free 7831K/14599K, external 5718K/6177K, paused 6ms+15ms
+I/ActivityThread(  152): Receiving broadcast android.intent.action.TIME_TICK to com.android.server.AlarmManagerService$ClockReceiver@2b1999e8
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.TIME_TICK to com.android.server.AlarmManagerService$ClockReceiver@2b1999e8
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.TIME_TICK to com.android.server.AlarmManagerService$ClockReceiver@2b1999e8
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=true
+D/AlarmManager(  152): scheduleTimeTickEvent calendar=Wed Aug 01 01:26:00 GMT 2012
+D/AlarmManager(  152): calendar.getTimeInMillis()1343780760000
+I/ActivityThread(  152): Finishing broadcast to com.android.server.AlarmManagerService$ClockReceiver@2b1999e8
+I/ActivityThread(  152): Receiving broadcast android.intent.action.TIME_TICK to com.android.internal.policy.impl.KeyguardUpdateMonitor$3@2afe9f50
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.TIME_TICK to com.android.internal.policy.impl.KeyguardUpdateMonitor$3@2afe9f50
+D/KeyguardUpdateMonitor(  152): received broadcast android.intent.action.TIME_TICK
+D/KeyguardUpdateMonitor(  152): handleTimeUpdate
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.TIME_TICK to com.android.internal.policy.impl.KeyguardUpdateMonitor$3@2afe9f50
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  152): Finishing broadcast to com.android.internal.policy.impl.KeyguardUpdateMonitor$3@2afe9f50
+I/ActivityThread(  220): Receiving broadcast android.intent.action.TIME_TICK to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.TIME_TICK to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.TIME_TICK to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  220): Finishing broadcast to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220): Receiving broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  220): Finishing broadcast to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220): Receiving broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  220): Finishing broadcast to android.widget.DateTimeView$1@2b148210
+V/PACW_WidgetReceiver( 4972): WidgetReceiver.onReceive(ACTION_TIME_TICK)
+D/PACW_UpdateTimer( 4972): Tick RUN
+I/ActivityThread(  220): Receiving broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  220): Finishing broadcast to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread( 4972): Receiving broadcast android.intent.action.TIME_TICK to com.nasc.widget.pixelartclock.WidgetReceiver@2b062620
+I/ActivityThread( 4972): Enqueueing broadcast android.intent.action.TIME_TICK to com.nasc.widget.pixelartclock.WidgetReceiver@2b062620
+I/ActivityThread( 4972): Dispatching broadcast android.intent.action.TIME_TICK to com.nasc.widget.pixelartclock.WidgetReceiver@2b062620
+I/ActivityThread( 4972):   mRegistered=true mCurOrdered=true
+I/installd(   95): move /data/dalvik-cache/data@app@com.grimpunch.games.HyperSpaceCroquet-1.apk@classes.dex -> /data/dalvik-cache/data@app@com.grimpunch.games.HyperSpaceCroquet-1.apk@classes.dex
+D/PackageManager(  152): New package installed in /data/app/com.grimpunch.games.HyperSpaceCroquet-1.apk
+I/ActivityThread( 4972): Finishing broadcast to com.nasc.widget.pixelartclock.WidgetReceiver@2b062620
+I/ActivityThread(  152): Receiving broadcast android.intent.action.PACKAGE_ADDED to android.content.pm.RegisteredServicesCache$1@2b0e8558
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to android.content.pm.RegisteredServicesCache$1@2b0e8558
+I/ActivityThread(  152): Receiving broadcast android.intent.action.PACKAGE_ADDED to android.content.pm.RegisteredServicesCache$1@2b1a5498
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to android.content.pm.RegisteredServicesCache$1@2b1a5498
+I/ActivityThread(  152): Receiving broadcast android.intent.action.PACKAGE_ADDED to com.android.server.DevicePolicyManagerService$MyPackageMonitor@2b1f4b00
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to com.android.server.DevicePolicyManagerService$MyPackageMonitor@2b1f4b00
+I/ActivityThread(  152): Receiving broadcast android.intent.action.PACKAGE_ADDED to com.android.server.InputMethodManagerService$MyPackageMonitor@2b21daf0
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to com.android.server.InputMethodManagerService$MyPackageMonitor@2b21daf0
+I/ActivityThread(  152): Receiving broadcast android.intent.action.PACKAGE_ADDED to com.android.server.AccessibilityManagerService$2@2b0c7d08
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to com.android.server.AccessibilityManagerService$2@2b0c7d08
+I/ActivityThread(  152): Receiving broadcast android.intent.action.PACKAGE_ADDED to com.android.server.LocationManagerService$2@2b210648
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to com.android.server.LocationManagerService$2@2b210648
+I/ActivityThread(  152): Receiving broadcast android.intent.action.PACKAGE_ADDED to com.android.server.WallpaperManagerService$MyPackageMonitor@2b236650
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to com.android.server.WallpaperManagerService$MyPackageMonitor@2b236650
+I/ActivityThread(  152): Receiving broadcast android.intent.action.PACKAGE_ADDED to com.android.server.usb.UsbDeviceSettingsManager$MyPackageMonitor@2b24f728
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to com.android.server.usb.UsbDeviceSettingsManager$MyPackageMonitor@2b24f728
+I/ActivityThread(  152): Receiving broadcast android.intent.action.PACKAGE_ADDED to com.android.server.BackupManagerService$1@2b26caf0
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to com.android.server.BackupManagerService$1@2b26caf0
+I/ActivityThread(  152): Receiving broadcast android.intent.action.PACKAGE_ADDED to com.android.server.RecognitionManagerService$MyPackageMonitor@2b277998
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to com.android.server.RecognitionManagerService$MyPackageMonitor@2b277998
+I/ActivityThread(  152): Receiving broadcast android.intent.action.PACKAGE_ADDED to com.android.server.AppWidgetService$1@2b2776d0
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to com.android.server.AppWidgetService$1@2b2776d0
+I/ActivityThread(  152): Receiving broadcast android.intent.action.PACKAGE_ADDED to android.server.search.SearchManagerService$MyPackageMonitor@2b2b8418
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to android.server.search.SearchManagerService$MyPackageMonitor@2b2b8418
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.PACKAGE_ADDED to android.content.pm.RegisteredServicesCache$1@2b0e8558
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread( 1654): Receiving broadcast android.intent.action.PACKAGE_ADDED to com.android.launcher2.LauncherModel@2afdd060
+I/ActivityThread( 1654): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to com.android.launcher2.LauncherModel@2afdd060
+I/ActivityThread( 4605): Receiving broadcast android.intent.action.PACKAGE_ADDED to com.android.settings.applications.ApplicationsState$PackageIntentReceiver@2b0143b0
+I/ActivityThread( 4605): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to com.android.settings.applications.ApplicationsState$PackageIntentReceiver@2b0143b0
+I/ActivityThread( 4605): Dispatching broadcast android.intent.action.PACKAGE_ADDED to com.android.settings.applications.ApplicationsState$PackageIntentReceiver@2b0143b0
+I/ActivityThread( 4605):   mRegistered=true mCurOrdered=false
+I/ActivityThread( 4987): Receiving broadcast android.intent.action.PACKAGE_ADDED to com.android.providers.applications.ApplicationsProvider$MyPackageMonitor@2b022a08
+I/Z7BroadcastReceiver( 3544): onReceive() start, intent: Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.grimpunch.games.HyperSpaceCroquet flg=0x10000000 cmp=com.orange.pushmail.Z7/.service.Z7BroadcastReceiver (has extras) }
+E/ActivityThread( 3585): >>> handling: 113
+I/ActivityThread( 3585): Finishing broadcast to ComponentInfo{com.google.android.apps.maps/com.google.android.location.internal.NlpPackageUpdateReceiver}
+D/ActivityThread( 3585): <<< done: 113
+I/ActivityThread( 4987): Enqueueing broadcast android.intent.action.PACKAGE_ADDED to com.android.providers.applications.ApplicationsProvider$MyPackageMonitor@2b022a08
+I/ActivityThread( 4987): Dispatching broadcast android.intent.action.PACKAGE_ADDED to com.android.providers.applications.ApplicationsProvider$MyPackageMonitor@2b022a08
+I/ActivityThread( 4987):   mRegistered=true mCurOrdered=false
+E/ActivityThread( 3544): >>> handling: 113
+I/ActivityThread( 3544): Finishing broadcast to ComponentInfo{com.orange.pushmail.Z7/com.orange.pushmail.Z7.service.Z7BroadcastReceiver}
+D/ActivityThread( 3544): <<< done: 113
+I/ActivityManager(  152): Start proc com.lookout:InstallReceiver for broadcast com.lookout/.security.InstallReceiver: pid=5093 uid=10034 gids={3003, 1007, 1015}
+I/ActivityThread( 1654): Dispatching broadcast android.intent.action.PACKAGE_ADDED to com.android.launcher2.LauncherModel@2afdd060
+I/ActivityThread( 1654):   mRegistered=true mCurOrdered=false
+D/dalvikvm(  152): GC_EXPLICIT freed 590K, 49% free 7582K/14599K, external 5332K/6177K, paused 170ms
+E/ActivityThread( 5093): >>> handling: 110
+D/AndroidRuntime( 5083): Shutting down VM
+D/dalvikvm( 5083): GC_CONCURRENT freed 103K, 70% free 308K/1024K, external 0K/0K, paused 1ms+1ms
+D/jdwp    ( 5083): adbd disconnected
+I/AndroidRuntime( 5083): NOTE: attach of thread 'Binder Thread #3' failed
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.PACKAGE_ADDED to android.content.pm.RegisteredServicesCache$1@2b1a5498
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/Process ( 5093): Sending signal. PID: 5093 SIG: 9
+D/ActivityThread( 5093): <<< done: 110
+E/ActivityThread( 5093): >>> handling: 113
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.PACKAGE_ADDED to com.android.server.DevicePolicyManagerService$MyPackageMonitor@2b1f4b00
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.PACKAGE_ADDED to com.android.server.InputMethodManagerService$MyPackageMonitor@2b21daf0
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.PACKAGE_ADDED to com.android.server.AccessibilityManagerService$2@2b0c7d08
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.PACKAGE_ADDED to com.android.server.LocationManagerService$2@2b210648
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.PACKAGE_ADDED to com.android.server.WallpaperManagerService$MyPackageMonitor@2b236650
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.PACKAGE_ADDED to com.android.server.usb.UsbDeviceSettingsManager$MyPackageMonitor@2b24f728
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.PACKAGE_ADDED to com.android.server.BackupManagerService$1@2b26caf0
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.PACKAGE_ADDED to com.android.server.RecognitionManagerService$MyPackageMonitor@2b277998
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.PACKAGE_ADDED to com.android.server.AppWidgetService$1@2b2776d0
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityManager(  152): Process com.lookout:InstallReceiver (pid 5093) has died.
+D/GTalkService(  282): handlePackageInstalled: re-initialize providers
+E/ActivityThread(  282): >>> handling: 113
+I/ActivityThread(  282): Finishing broadcast to ComponentInfo{com.google.android.gsf/com.google.android.gsf.gtalkservice.service.GTalkService}
+D/ActivityThread(  282): <<< done: 113
+E/ActivityThread(  282): >>> handling: 115
+D/GTalkService(  282): [RawStanzaProvidersMgr] ##### searchProvidersFromIntent
+D/GTalkService(  282): [RawStanzaProvidersMgr] no intent receivers found
+E/ActivityThread( 4880): >>> handling: 113
+I/ActivityThread( 4880): Finishing broadcast to ComponentInfo{com.google.android.partnersetup/com.google.android.partnersetup.AppInstalledReceiver}
+D/ActivityThread( 4880): <<< done: 113
+D/ActivityThread(  282): <<< done: 115
+E/ActivityThread( 4880): >>> handling: 113
+I/ActivityThread( 4880): Finishing broadcast to ComponentInfo{com.google.android.partnersetup/com.google.android.partnersetup.RlzPingBroadcastReceiver}
+D/ActivityThread( 4880): <<< done: 113
+E/ActivityThread( 4887): >>> handling: 113
+I/ActivityThread( 4887): Finishing broadcast to ComponentInfo{com.svox.pico/com.svox.pico.VoiceDataInstallerReceiver}
+D/ActivityThread( 4887): <<< done: 113
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.PACKAGE_ADDED to android.server.search.SearchManagerService$MyPackageMonitor@2b2b8418
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+E/ActivityThread( 4894): >>> handling: 113
+I/ActivityThread( 4894): Finishing broadcast to ComponentInfo{mobi.infolife.appbackup/mobi.infolife.common.app.AppMonitorBroadcastReceiver}
+D/ActivityThread( 4894): <<< done: 113
+E/ActivityThread( 4894): >>> handling: 113
+I/ActivityThread( 4894): Finishing broadcast to ComponentInfo{mobi.infolife.appbackup/mobi.infolife.appbackup.AppInstalledBroadcastReceiver}
+D/ActivityThread( 4894): <<< done: 113
+D/AlarmManager(  152): +++Alarm set:type=0 com.android.vending  Trigger after:14998ms
+E/ActivityThread( 4902): >>> handling: 113
+I/ActivityThread( 4902): Finishing broadcast to ComponentInfo{com.android.vending/com.google.android.finsky.receivers.PackageMonitorReceiver$RegisteredReceiver}
+D/ActivityThread( 4902): <<< done: 113
+E/ActivityThread( 4942): >>> handling: 113
+I/ActivityThread( 4942): Finishing broadcast to ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SourceUpdateReceiver}
+D/ActivityThread( 4942): <<< done: 113
+D/AndroidRuntime( 5107): 
+D/AndroidRuntime( 5107): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 5107): CheckJNI is OFF
+D/AndroidRuntime( 5107): Calling main entry com.android.commands.am.Am
+I/ActivityManager(  152): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.grimpunch.games.HyperSpaceCroquet/.AdMobTestActivity } from pid 5107
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=Window{2b36cee8 com.android.launcher/com.android.launcher2.Launcher paused=false} mode=3 mCurrentFocus = Window{2b36cee8 com.android.launcher/com.android.launcher2.Launcher paused=false}
+E/ActivityThread( 1654): >>> handling: 101
+D/AndroidRuntime( 5107): Shutting down VM
+D/dalvikvm( 5107): GC_CONCURRENT freed 105K, 68% free 334K/1024K, external 0K/0K, paused 1ms+1ms
+D/jdwp    ( 5107): adbd disconnected
+I/ActivityManager(  152): Start proc com.grimpunch.games.HyperSpaceCroquet for activity com.grimpunch.games.HyperSpaceCroquet/.AdMobTestActivity: pid=5115 uid=10074 gids={3003, 1015}
+D/dalvikvm( 5115): Late-enabling CheckJNI
+I/AndroidRuntime( 5107): NOTE: attach of thread 'Binder Thread #3' failed
+D/ActivityThread( 1654): <<< done: 101
+D/dalvikvm(   90): GC_EXPLICIT freed 12K, 49% free 2744K/5379K, external 1625K/2137K, paused 119ms
+I/WindowManager(  152): Setting rotation to 1, animFlags=1
+I/ActivityManager(  152): Config changed: { scale=1.0 imsi=234/33 loc=en_GB touch=3 keys=1/1/2 nav=1/1 orien=2 layout=34 uiMode=17 seq=311}
+D/PhoneApp(  241): updateProximitySensorMode: state = IDLE
+E/ActivityThread( 4352): >>> handling: 118
+D/ActivityThread( 4352): <<< done: 118
+E/ActivityThread(  935): >>> handling: 118
+D/ActivityThread(  935): <<< done: 118
+E/ActivityThread(  282): >>> handling: 118
+D/ActivityThread(  282): <<< done: 118
+E/ActivityThread(  241): >>> handling: 118
+E/ActivityThread(  152): >>> handling: 118
+D/PhoneApp(  241): updateProximitySensorMode: lock already released.
+D/ActivityThread(  241): <<< done: 118
+E/ActivityThread( 4942): >>> handling: 118
+D/ActivityThread( 4942): <<< done: 118
+E/ActivityThread( 4902): >>> handling: 118
+D/ActivityThread( 4902): <<< done: 118
+E/ActivityThread( 4887): >>> handling: 118
+D/ActivityThread( 4887): <<< done: 118
+E/ActivityThread( 4880): >>> handling: 118
+D/ActivityThread( 4880): <<< done: 118
+E/ActivityThread( 4894): >>> handling: 118
+D/ActivityThread( 4894): <<< done: 118
+E/ActivityThread( 3544): >>> handling: 118
+D/ActivityThread( 3544): <<< done: 118
+E/ActivityThread( 3585): >>> handling: 118
+D/ActivityThread( 3585): <<< done: 118
+E/ActivityThread( 3326): >>> handling: 118
+D/ActivityThread( 3326): <<< done: 118
+E/ActivityThread(32043): >>> handling: 118
+D/ActivityThread(32043): <<< done: 118
+E/ActivityThread( 4831): >>> handling: 118
+D/ActivityThread( 4831): <<< done: 118
+E/ActivityThread( 5051): >>> handling: 118
+D/ActivityThread( 5051): <<< done: 118
+E/ActivityThread( 1654): >>> handling: 118
+D/ActivityThread( 1654): <<< done: 118
+E/ActivityThread( 4605): >>> handling: 118
+D/ActivityThread( 4605): <<< done: 118
+E/ActivityThread( 5044): >>> handling: 118
+D/ActivityThread( 5044): <<< done: 118
+E/ActivityThread( 5037): >>> handling: 118
+D/ActivityThread( 5037): <<< done: 118
+E/ActivityThread( 5001): >>> handling: 118
+D/ActivityThread( 5001): <<< done: 118
+E/ActivityThread( 4987): >>> handling: 118
+D/ActivityThread( 4987): <<< done: 118
+E/ActivityThread( 4972): >>> handling: 118
+D/ActivityThread( 4972): <<< done: 118
+E/ActivityThread( 4962): >>> handling: 118
+D/ActivityThread( 4962): <<< done: 118
+E/ActivityThread( 4949): >>> handling: 118
+D/ActivityThread( 4949): <<< done: 118
+E/ActivityThread( 4842): >>> handling: 118
+D/ActivityThread( 4842): <<< done: 118
+E/ActivityThread( 4785): >>> handling: 118
+D/ActivityThread( 4785): <<< done: 118
+E/ActivityThread(  220): >>> handling: 118
+D/ActivityThread(  220): <<< done: 118
+E/ActivityThread(  250): >>> handling: 118
+D/ActivityThread(  250): <<< done: 118
+E/ActivityThread(  247): >>> handling: 118
+D/ActivityThread(  247): <<< done: 118
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b46e290 token=HistoryRecord{2b41d300 com.android.launcher/com.android.launcher2.Launcher}}
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b46e290 token=HistoryRecord{2b41d300 com.android.launcher/com.android.launcher2.Launcher}}
+D/ActivityThread(  152): <<< done: 118
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=null mode=3 mCurrentFocus = Window{2b36cee8 com.android.launcher/com.android.launcher2.Launcher paused=false}
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=null mode=3 mCurrentFocus = null
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b46e290 token=HistoryRecord{2b41d300 com.android.launcher/com.android.launcher2.Launcher}}
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b46e290 token=HistoryRecord{2b41d300 com.android.launcher/com.android.launcher2.Launcher}}
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=null mode=2 mCurrentFocus = null
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=null mode=2 mCurrentFocus = null
+W/WindowManager(  152): Window Window{2b36cee8 com.android.launcher/com.android.launcher2.Launcher paused=false} destroying surface Surface(name=com.android.launcher/com.android.launcher2.Launcher, identity=17413), session Session{2b70e030 uid 10021}
+D/dalvikvm(   90): GC_EXPLICIT freed <1K, 49% free 2744K/5379K, external 1625K/2137K, paused 131ms
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b7ba478 token=HistoryRecord{2b318120 com.grimpunch.games.HyperSpaceCroquet/.AdMobTestActivity}}
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=null mode=0 mCurrentFocus = null
+I/ActivityThread(  152): Receiving broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.server.AppWidgetService$1@2b2776d0
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.server.AppWidgetService$1@2b2776d0
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.server.AppWidgetService$1@2b2776d0
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  220): Receiving broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.systemui.statusbar.StatusBarService$4@2afec480
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.systemui.statusbar.StatusBarService$4@2afec480
+E/ActivityThread( 5115): >>> handling: 110
+I/ActivityThread(  220): Receiving broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220): Receiving broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220): Receiving broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220): Receiving broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b038c20
+D/ActivityThread( 5115): <<< done: 110
+E/ActivityThread( 5115): >>> handling: 118
+D/AndroidRuntime( 5115): Shutting down VM
+W/dalvikvm( 5115): threadid=1: thread exiting with uncaught exception (group=0x2aac4560)
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.systemui.statusbar.StatusBarService$4@2afec480
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+D/wenxin  (  220): mBroadcastReceiver.action = android.intent.action.CONFIGURATION_CHANGED
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+D/ActivityThread( 5115): <<< done: 118
+E/ActivityThread( 5115): >>> handling: 100
+E/AndroidRuntime( 5115): FATAL EXCEPTION: main
+E/AndroidRuntime( 5115): java.lang.RuntimeException: Unable to instantiate activity ComponentInfo{com.grimpunch.games.HyperSpaceCroquet/com.grimpunch.games.HyperSpaceCroquet.AdMobTestActivity}: java.lang.ClassNotFoundException: com.grimpunch.games.HyperSpaceCroquet.AdMobTestActivity in loader dalvik.system.PathClassLoader[/data/app/com.grimpunch.games.HyperSpaceCroquet-1.apk]
+E/AndroidRuntime( 5115): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:1667)
+E/AndroidRuntime( 5115): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:1761)
+E/AndroidRuntime( 5115): 	at android.app.ActivityThread.access$1500(ActivityThread.java:124)
+E/AndroidRuntime( 5115): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:947)
+E/AndroidRuntime( 5115): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+E/AndroidRuntime( 5115): 	at android.os.Looper.loop(Looper.java:130)
+E/AndroidRuntime( 5115): 	at android.app.ActivityThread.main(ActivityThread.java:3822)
+E/AndroidRuntime( 5115): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 5115): 	at java.lang.reflect.Method.invoke(Method.java:507)
+E/AndroidRuntime( 5115): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:839)
+E/AndroidRuntime( 5115): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:597)
+E/AndroidRuntime( 5115): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 5115): Caused by: java.lang.ClassNotFoundException: com.grimpunch.games.HyperSpaceCroquet.AdMobTestActivity in loader dalvik.system.PathClassLoader[/data/app/com.grimpunch.games.HyperSpaceCroquet-1.apk]
+E/AndroidRuntime( 5115): 	at dalvik.system.PathClassLoader.findClass(PathClassLoader.java:240)
+E/AndroidRuntime( 5115): 	at java.lang.ClassLoader.loadClass(ClassLoader.java:551)
+E/AndroidRuntime( 5115): 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+E/AndroidRuntime( 5115): 	at android.app.Instrumentation.newActivity(Instrumentation.java:1021)
+E/AndroidRuntime( 5115): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:1659)
+E/AndroidRuntime( 5115): 	... 11 more
+W/WindowManager(  152): Reached focused app: AppWindowToken{2b46e290 token=HistoryRecord{2b41d300 com.android.launcher/com.android.launcher2.Launcher}}
+W/ActivityManager(  152):   Force finishing activity com.grimpunch.games.HyperSpaceCroquet/.AdMobTestActivity
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=null mode=0 mCurrentFocus = null
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-53, 4)=3
+D/dalvikvm(   90): GC_EXPLICIT freed <1K, 49% free 2744K/5379K, external 1625K/2137K, paused 191ms
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=Window{2b20a990 Sorry! paused=false} mode=1 mCurrentFocus = null
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=Window{2b20a990 Sorry! paused=false} mode=3 mCurrentFocus = Window{2b20a990 Sorry! paused=false}
+W/ActivityManager(  152): Activity pause timeout for HistoryRecord{2b318120 com.grimpunch.games.HyperSpaceCroquet/.AdMobTestActivity}
+I/WindowManager(  152): Setting rotation to 0, animFlags=1
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=Window{2b20a990 Sorry! paused=false} mode=3 mCurrentFocus = Window{2b20a990 Sorry! paused=false}
+I/ActivityManager(  152): Config changed: { scale=1.0 imsi=234/33 loc=en_GB touch=3 keys=1/1/2 nav=1/1 orien=1 layout=34 uiMode=17 seq=312}
+E/ActivityThread( 4352): >>> handling: 118
+D/ActivityThread( 4352): <<< done: 118
+E/ActivityThread(  935): >>> handling: 118
+D/ActivityThread(  935): <<< done: 118
+E/ActivityThread(  282): >>> handling: 118
+D/ActivityThread(  282): <<< done: 118
+D/PhoneApp(  241): updateProximitySensorMode: state = IDLE
+D/PhoneApp(  241): updateProximitySensorMode: lock already released.
+E/ActivityThread(  241): >>> handling: 118
+D/ActivityThread(  241): <<< done: 118
+E/ActivityThread( 4942): >>> handling: 118
+D/ActivityThread( 4942): <<< done: 118
+E/ActivityThread( 4902): >>> handling: 118
+D/ActivityThread( 4902): <<< done: 118
+E/ActivityThread( 4887): >>> handling: 118
+D/ActivityThread( 4887): <<< done: 118
+E/ActivityThread( 4880): >>> handling: 118
+D/ActivityThread( 4880): <<< done: 118
+E/ActivityThread( 4894): >>> handling: 118
+D/ActivityThread( 4894): <<< done: 118
+E/ActivityThread( 3544): >>> handling: 118
+D/ActivityThread( 3544): <<< done: 118
+E/ActivityThread( 3585): >>> handling: 118
+D/ActivityThread( 3585): <<< done: 118
+E/ActivityThread( 3326): >>> handling: 118
+D/ActivityThread( 3326): <<< done: 118
+E/ActivityThread(32043): >>> handling: 118
+D/ActivityThread(32043): <<< done: 118
+E/ActivityThread( 4831): >>> handling: 118
+D/ActivityThread( 4831): <<< done: 118
+E/ActivityThread( 5051): >>> handling: 118
+D/ActivityThread( 5051): <<< done: 118
+E/ActivityThread( 4605): >>> handling: 118
+D/ActivityThread( 4605): <<< done: 118
+E/ActivityThread( 5044): >>> handling: 118
+D/ActivityThread( 5044): <<< done: 118
+E/ActivityThread( 5037): >>> handling: 118
+D/ActivityThread( 5037): <<< done: 118
+E/ActivityThread( 5001): >>> handling: 118
+D/ActivityThread( 5001): <<< done: 118
+E/ActivityThread( 4987): >>> handling: 118
+D/ActivityThread( 4987): <<< done: 118
+E/ActivityThread( 4972): >>> handling: 118
+D/ActivityThread( 4972): <<< done: 118
+E/ActivityThread( 4962): >>> handling: 118
+D/ActivityThread( 4962): <<< done: 118
+E/ActivityThread( 4949): >>> handling: 118
+D/ActivityThread( 4949): <<< done: 118
+E/ActivityThread( 4842): >>> handling: 118
+D/ActivityThread( 4842): <<< done: 118
+E/ActivityThread( 4785): >>> handling: 118
+D/ActivityThread( 4785): <<< done: 118
+E/ActivityThread(  220): >>> handling: 118
+D/ActivityThread(  220): <<< done: 118
+E/ActivityThread(  250): >>> handling: 118
+D/ActivityThread(  250): <<< done: 118
+E/ActivityThread(  247): >>> handling: 118
+D/ActivityThread(  247): <<< done: 118
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=Window{2b20a990 Sorry! paused=false} mode=2 mCurrentFocus = Window{2b20a990 Sorry! paused=false}
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=Window{2b20a990 Sorry! paused=false} mode=2 mCurrentFocus = Window{2b20a990 Sorry! paused=false}
+I/ActivityThread(  152): Receiving broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.server.AppWidgetService$1@2b2776d0
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.server.AppWidgetService$1@2b2776d0
+I/ActivityThread(  220): Receiving broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.systemui.statusbar.StatusBarService$4@2afec480
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.systemui.statusbar.StatusBarService$4@2afec480
+I/ActivityThread(  220): Receiving broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220): Receiving broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220): Receiving broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220): Receiving broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.systemui.statusbar.StatusBarService$4@2afec480
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+D/wenxin  (  220): mBroadcastReceiver.action = android.intent.action.CONFIGURATION_CHANGED
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+E/ActivityThread(  152): >>> handling: 118
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.CONFIGURATION_CHANGED to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+D/ActivityThread(  152): <<< done: 118
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.CONFIGURATION_CHANGED to com.android.server.AppWidgetService$1@2b2776d0
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+E/ActivityThread( 1654): >>> handling: 118
+D/ActivityThread( 1654): <<< done: 118
+E/ActivityThread( 1654): >>> handling: 125
+D/ActivityThread( 1654): <<< done: 125
+E/ActivityThread( 1654): >>> handling: 107
+D/ActivityThread( 1654): <<< done: 107
+I/ActivityManager(  152): No longer want android.process.media (pid 4949): hidden #16
+D/dalvikvm(  152): GC_EXPLICIT freed 305K, 48% free 7644K/14599K, external 5727K/6177K, paused 319ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-49, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
+I/Process ( 5115): Sending signal. PID: 5115 SIG: 9
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=Window{2b36cee8 com.android.launcher/com.android.launcher2.Launcher paused=false} mode=3 mCurrentFocus = Window{2b20a990 Sorry! paused=false}
+I/ActivityManager(  152): Process com.grimpunch.games.HyperSpaceCroquet (pid 5115) has died.
+W/InputManagerService(  152): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@2b5d4c58
+W/WindowManager(  152): Window Window{2b20a990 Sorry! paused=false} destroying surface Surface(name=Sorry!, identity=17415), session Session{2b271480 uid 1000}
+E/ActivityThread( 4880): >>> handling: 120
+D/ActivityThread( 4880): <<< done: 120
+D/dalvikvm( 4880): GC_EXPLICIT freed 12K, 49% free 2753K/5379K, external 1625K/2137K, paused 38ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
+E/ActivityThread( 4887): >>> handling: 120
+D/ActivityThread( 4887): <<< done: 120
+W/ActivityManager(  152): Activity destroy timeout for HistoryRecord{2b318120 com.grimpunch.games.HyperSpaceCroquet/.AdMobTestActivity}
+W/WindowManager(  152): Window Window{2afe4c30 Starting com.grimpunch.games.HyperSpaceCroquet paused=false} destroying surface Surface(name=Starting com.grimpunch.games.HyperSpaceCroquet, identity=17414), session Session{2b271480 uid 1000}
+W/WindowManager(  152): updateFocusedWindowLocked newFocus=Window{2b36cee8 com.android.launcher/com.android.launcher2.Launcher paused=false} mode=0 mCurrentFocus = Window{2b36cee8 com.android.launcher/com.android.launcher2.Launcher paused=false}
+D/dalvikvm( 4887): GC_EXPLICIT freed 7K, 50% free 2743K/5379K, external 1625K/2137K, paused 165ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-48, 4)=3
+W/AlarmManager(  152): +++Alarm  wakeup phone ,pkg=com.android.vending
+E/ActivityThread( 4902): >>> handling: 114
+D/ActivityThread( 4902): <<< done: 114
+E/ActivityThread( 4902): >>> handling: 115
+D/ActivityThread( 4902): <<< done: 115
+W/AlarmManager(  152): +++alarm onSendFinished ,action=null
+D/Finsky  ( 4902): [1] 5.onFinished: Installation state replication succeeded.
+E/ActivityThread( 4902): >>> handling: 116
+D/ActivityThread( 4902): <<< done: 116
+E/ActivityThread( 4902): >>> handling: 119
+D/ActivityThread( 4902): <<< done: 119
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-49, 4)=3
+I/installd(   95): free_cache(17039360) avail 10076160
+E/installd(   95): cannot open /data/secure/data/: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/ActivityThread( 4894): >>> handling: 120
+D/ActivityThread( 4894): <<< done: 120
+D/dalvikvm( 4894): GC_EXPLICIT freed 48K, 49% free 2760K/5379K, external 1676K/2137K, paused 172ms
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+E/installd(   95): Couldn't openat cache: No such file or directory
+W/PackageManager(  152): Couldn't clear application caches
+I/DeviceStorageMonitorService(  152): Running low on memory. Sending notification
+I/ActivityThread(  152): Receiving broadcast android.intent.action.DEVICE_STORAGE_LOW to android.content.SyncManager$1@2b0b5e58
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.DEVICE_STORAGE_LOW to android.content.SyncManager$1@2b0b5e58
+I/ActivityThread(  152): Receiving broadcast android.intent.action.DEVICE_STORAGE_LOW to com.android.server.DropBoxManagerService$1@2b233fd0
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.DEVICE_STORAGE_LOW to com.android.server.DropBoxManagerService$1@2b233fd0
+I/ActivityThread(  282): Receiving broadcast android.intent.action.DEVICE_STORAGE_LOW to com.google.android.gsf.gtalkservice.service.GTalkService$AccountsAndSettingsMonitor@2b062028
+I/ActivityThread(  282): Enqueueing broadcast android.intent.action.DEVICE_STORAGE_LOW to com.google.android.gsf.gtalkservice.service.GTalkService$AccountsAndSettingsMonitor@2b062028
+I/ActivityThread(  282): Dispatching broadcast android.intent.action.DEVICE_STORAGE_LOW to com.google.android.gsf.gtalkservice.service.GTalkService$AccountsAndSettingsMonitor@2b062028
+I/ActivityThread(  282):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.DEVICE_STORAGE_LOW to android.content.SyncManager$1@2b0b5e58
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.DEVICE_STORAGE_LOW to com.android.server.DropBoxManagerService$1@2b233fd0
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=false
+I/ActivityManager(  152): Start proc com.android.email for broadcast com.android.email/.service.EmailBroadcastReceiver: pid=5126 uid=10010 gids={3003, 1015}
+D/dalvikvm( 5126): Late-enabling CheckJNI
+E/ActivityThread(  282): >>> handling: 114
+D/ActivityThread(  282): <<< done: 114
+E/ActivityThread(  282): >>> handling: 121
+D/ActivityThread(  282): <<< done: 121
+E/ActivityThread(  282): >>> handling: 122
+D/ActivityThread(  282): <<< done: 122
+E/ActivityThread(  282): >>> handling: 116
+D/ActivityThread(  282): <<< done: 116
+E/ActivityThread(  282): >>> handling: 119
+D/ActivityThread(  282): <<< done: 119
+D/GTalkService(  282): AcctMonitor.auditGTalkConnections: not starting any connections since shouldTryToConnect is false
+D/GTalkService(  282): AcctMonitor.auditGTalkConnections: stopping connection for christheromguy@googlemail.com, accountDoesntExist is false
+D/GTalkService/c(  282): [GTalkConnection.1451] ### logout ###
+E/ActivityThread( 5126): >>> handling: 110
+W/dalvikvm( 5126): Refusing to reopen boot DEX '/system/framework/OmaDrmClient.jar'
+I/GTalkService(  282): [GTalkConnection.25] connectionClosed: connId=4693025, error=NO ERROR
+D/ConnectivityService(  152): reportNetworkCondition(1, 0)
+D/ConnectivityService(  152): Inet connectivity change, net=1, condition=0,mActiveDefaultNetwork=1
+D/ConnectivityService(  152): starting a change hold
+I/ActivityThread( 5126): Pub com.zte.zmail.security.provider: com.zte.zmail.security.provider.SecurityProvider
+I/ActivityThread( 5126): Pub com.android.email.searchsuggestionprovider: com.android.email.provider.SearchSuggestionProvider
+I/ActivityThread( 5126): Pub com.android.exchange.provider: com.android.exchange.provider.ExchangeProvider
+I/ActivityThread( 5126): Pub com.android.email.provider: com.android.email.provider.EmailProvider
+D/GTalkService(  282): [RosterListenerImpl] onLoggedOut
+D/Smack   (  282): [XMPPConn] close connection, notifyClosed=false
+I/ActivityThread( 5126): Pub com.android.email.attachmentprovider: com.android.email.provider.AttachmentProvider
+W/Smack/Packet(  282): notify conn break (IOEx), close connection
+D/Smack   (  282): [XMPPConn] close: socket already closed, bail
+D/GTalkService(  282): [RosterListenerImpl] removeTalkPresence for account=1, deleted=0
+V/ContactsProvider( 4987): onBeginTransaction
+I/ContactsProvider( 4987): updateInTransaction: content://com.android.contacts/status_updates
+V/ContactsProvider( 4987): flushTransactionChanges
+V/ContactsProvider( 4987): beforeTransactionCommit
+V/ContactsProvider( 4987): flushTransactionChanges
+D/ActivityThread( 5126): <<< done: 110
+E/ActivityThread( 5126): >>> handling: 113
+I/ActivityThread( 5126): Finishing broadcast to ComponentInfo{com.android.email/com.android.email.service.EmailBroadcastReceiver}
+D/ActivityThread( 5126): <<< done: 113
+E/ActivityThread( 5126): >>> handling: 114
+D/ActivityThread( 5126): <<< done: 114
+E/ActivityThread( 5126): >>> handling: 115
+D/ActivityThread( 5126): <<< done: 115
+E/ActivityThread(  282): >>> handling: 131
+D/ActivityThread(  282): <<< done: 131
+D/GTalkService(  282): [ContactPresence] removeAllContactsPresence: account=1, set null presence for 0
+I/GTalkService(  282): [GTalkConnection.25] (WORKER THREAD) update account status
+D/Email   ( 5126): BOOT_COMPLETED Cancel service
+W/ActivityManager(  152): Unable to start service Intent { act=com.android.email.intent.action.MAIL_SERVICE_CANCEL cmp=com.android.email/.service.MailService }: not found
+E/ActivityThread( 5126): >>> handling: 116
+D/ActivityThread( 5126): <<< done: 116
+E/ActivityThread( 5126): >>> handling: 119
+D/ActivityThread( 5126): <<< done: 119
+V/ContactsProvider( 4987): onBeginTransaction
+I/ContactsProvider( 4987): updateInTransaction: content://com.android.contacts/status_updates
+V/ContactsProvider( 4987): flushTransactionChanges
+V/ContactsProvider( 4987): beforeTransactionCommit
+V/ContactsProvider( 4987): flushTransactionChanges
+I/GTalkService(  282): [GTalkConnection.25] (WORKER THREAD) update account status - done, took 74 ms
+E/ActivityThread(  282): >>> handling: 131
+D/ActivityThread(  282): <<< done: 131
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
+D/ConnectivityService(  152): Inet hold end, net=1, condition =0, published condition =100
+I/ActivityThread(  220): Receiving broadcast android.net.conn.INET_CONDITION_ACTION to com.android.systemui.statusbar.policy.StatusBarPolicy$1@2b005578
+I/ActivityThread(  220): Enqueueing broadcast android.net.conn.INET_CONDITION_ACTION to com.android.systemui.statusbar.policy.StatusBarPolicy$1@2b005578
+I/ActivityThread(  220): Dispatching broadcast android.net.conn.INET_CONDITION_ACTION to com.android.systemui.statusbar.policy.StatusBarPolicy$1@2b005578
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=false
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-53, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
+E/ActivityThread( 4902): >>> handling: 120
+D/ActivityThread( 4902): <<< done: 120
+D/dalvikvm( 4902): GC_EXPLICIT freed 503K, 48% free 3568K/6855K, external 1625K/2137K, paused 139ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
+E/ActivityThread( 5126): >>> handling: 132
+D/ActivityThread( 5126): <<< done: 132
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
+E/ActivityThread( 4942): >>> handling: 120
+D/ActivityThread( 4942): <<< done: 120
+D/dalvikvm( 4942): GC_EXPLICIT freed 23K, 48% free 2837K/5447K, external 1625K/2137K, paused 102ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-51, 4)=3
+E/ActivityThread( 3585): >>> handling: 120
+D/ActivityThread( 3585): <<< done: 120
+D/dalvikvm( 3585): GC_EXPLICIT freed 7K, 41% free 4169K/6983K, external 1625K/2137K, paused 173ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
+E/ActivityThread( 3326): >>> handling: 120
+D/ActivityThread( 3326): <<< done: 120
+D/dalvikvm( 3326): GC_EXPLICIT freed 16K, 49% free 2774K/5379K, external 1625K/2137K, paused 108ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
+E/ActivityThread( 3544): >>> handling: 120
+D/ActivityThread( 3544): <<< done: 120
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
+D/dalvikvm( 3544): GC_EXPLICIT freed 8K, 47% free 2991K/5575K, external 1625K/2137K, paused 122ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-51, 4)=3
+E/ActivityThread(32043): >>> handling: 120
+D/ActivityThread(32043): <<< done: 120
+D/dalvikvm(32043): GC_EXPLICIT freed 50K, 52% free 2799K/5767K, external 1625K/2137K, paused 109ms
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-49, 4)=3
+I/ActivityThread(  152): Receiving broadcast android.intent.action.TIME_TICK to com.android.server.AlarmManagerService$ClockReceiver@2b1999e8
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.TIME_TICK to com.android.server.AlarmManagerService$ClockReceiver@2b1999e8
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.TIME_TICK to com.android.server.AlarmManagerService$ClockReceiver@2b1999e8
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=true
+D/AlarmManager(  152): scheduleTimeTickEvent calendar=Wed Aug 01 01:27:00 GMT 2012
+D/AlarmManager(  152): calendar.getTimeInMillis()1343780820000
+I/ActivityThread(  152): Finishing broadcast to com.android.server.AlarmManagerService$ClockReceiver@2b1999e8
+I/ActivityThread(  152): Receiving broadcast android.intent.action.TIME_TICK to com.android.internal.policy.impl.KeyguardUpdateMonitor$3@2afe9f50
+I/ActivityThread(  152): Enqueueing broadcast android.intent.action.TIME_TICK to com.android.internal.policy.impl.KeyguardUpdateMonitor$3@2afe9f50
+D/KeyguardUpdateMonitor(  152): received broadcast android.intent.action.TIME_TICK
+D/KeyguardUpdateMonitor(  152): handleTimeUpdate
+I/ActivityThread(  152): Dispatching broadcast android.intent.action.TIME_TICK to com.android.internal.policy.impl.KeyguardUpdateMonitor$3@2afe9f50
+I/ActivityThread(  152):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  152): Finishing broadcast to com.android.internal.policy.impl.KeyguardUpdateMonitor$3@2afe9f50
+I/ActivityThread(  220): Receiving broadcast android.intent.action.TIME_TICK to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.TIME_TICK to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.TIME_TICK to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  220): Finishing broadcast to com.android.systemui.statusbar.Clock$1@2aff73a8
+I/ActivityThread(  220): Receiving broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  220): Finishing broadcast to android.widget.DateTimeView$1@2b052418
+I/ActivityThread(  220): Receiving broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  220): Finishing broadcast to android.widget.DateTimeView$1@2b148210
+I/ActivityThread(  220): Receiving broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b038c20
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  220): Finishing broadcast to android.widget.DateTimeView$1@2b038c20
+V/PACW_WidgetReceiver( 4972): WidgetReceiver.onReceive(ACTION_TIME_TICK)
+D/PACW_UpdateTimer( 4972): Tick RUN
+I/ActivityThread( 4972): Receiving broadcast android.intent.action.TIME_TICK to com.nasc.widget.pixelartclock.WidgetReceiver@2b062620
+I/ActivityThread( 4972): Enqueueing broadcast android.intent.action.TIME_TICK to com.nasc.widget.pixelartclock.WidgetReceiver@2b062620
+I/ActivityThread( 4972): Dispatching broadcast android.intent.action.TIME_TICK to com.nasc.widget.pixelartclock.WidgetReceiver@2b062620
+I/ActivityThread( 4972):   mRegistered=true mCurOrdered=true
+D/dalvikvm( 4972): GC_CONCURRENT freed 568K, 57% free 2940K/6727K, external 1625K/2137K, paused 9ms+10ms
+I/ActivityThread( 4972): Finishing broadcast to com.nasc.widget.pixelartclock.WidgetReceiver@2b062620
+I/ActivityThread(  220): Receiving broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b0565e0
+I/ActivityThread(  220): Enqueueing broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b0565e0
+I/ActivityThread(  220): Dispatching broadcast android.intent.action.TIME_TICK to android.widget.DateTimeView$1@2b0565e0
+I/ActivityThread(  220):   mRegistered=true mCurOrdered=true
+I/ActivityThread(  220): Finishing broadcast to android.widget.DateTimeView$1@2b0565e0
+D/WifiStateTracker(  152): WifiManager.calculateSignalLevel(-50, 4)=3
